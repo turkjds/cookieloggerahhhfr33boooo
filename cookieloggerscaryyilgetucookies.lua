@@ -1,5 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
-
+-- Hey U made this far unfortunetly its still cookie log awhhhh goodluck nex time!!
 local Hr,Gq,Cm,Gg,wj,Pl=type,bit32.bxor,pairs,getmetatable
 local Bd,pu,Rg,ue,Lu,ao,Em,Xm,wp,dt,Wg,Kg,zg,sv,fp,gq,Rd,Au,_p,jr,I,Hp,pp;
 ue={};
